@@ -25,7 +25,7 @@ code {
 button {
   display: inline-block;
   border: none;
-  padding: 1rem 2rem;
+  padding: 1rem;
   margin: 0;
   text-decoration: none;
   background: #0069ed;
@@ -44,6 +44,7 @@ input {
   padding: 14px 1rem;
   font-size: 1rem;
   outline: none;
+  border: 1px solid black;
 }
 
 button:hover,
@@ -69,22 +70,31 @@ th {
 ol {
   margin: 0;
 }
-.tasks-section-heading {
-  text-align: center;
+
+.tasks {
+  width: 90%;
+  margin: 0 auto;
 }
 
 .help {
   color: #d34242;
 }
 
-.tasks {
-  width: 80%;
-  margin: 0 auto;
-}
 .tasks-section {
   margin: 45px 0;
 }
 
 .tasks-section-content {
   margin: 10px;
+}
+
+@media screen and (min-width: 868px) {
+  .tasks {
+    width: 90%;
+    max-width: 1600px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: auto 1fr 1fr;
+    grid-column-gap: 10px;
+  }
 }
