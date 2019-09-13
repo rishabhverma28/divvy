@@ -1,0 +1,1597 @@
+[{
+	"from_station_id": 199,
+	"from_station_name": "Wabash Ave & Grand Ave"
+}, {
+	"from_station_id": 44,
+	"from_station_name": "State St & Randolph St"
+}, {
+	"from_station_id": 15,
+	"from_station_name": "Racine Ave & 18th St"
+}, {
+	"from_station_id": 123,
+	"from_station_name": "California Ave & Milwaukee Ave"
+}, {
+	"from_station_id": 173,
+	"from_station_name": "Mies van der Rohe Way & Chicago Ave"
+}, {
+	"from_station_id": 98,
+	"from_station_name": "LaSalle St & Washington St"
+}, {
+	"from_station_id": 211,
+	"from_station_name": "St. Clair St & Erie St"
+}, {
+	"from_station_id": 150,
+	"from_station_name": "Fort Dearborn Dr & 31st St"
+}, {
+	"from_station_id": 268,
+	"from_station_name": "Lake Shore Dr & North Blvd"
+}, {
+	"from_station_id": 299,
+	"from_station_name": "Halsted St & Roscoe St"
+}, {
+	"from_station_id": 204,
+	"from_station_name": "Prairie Ave & Garfield Blvd"
+}, {
+	"from_station_id": 90,
+	"from_station_name": "Millennium Park"
+}, {
+	"from_station_id": 289,
+	"from_station_name": "Wells St & Concord Ln"
+}, {
+	"from_station_id": 152,
+	"from_station_name": "Lincoln Ave & Diversey Pkwy"
+}, {
+	"from_station_id": 35,
+	"from_station_name": "Streeter Dr & Grand Ave"
+}, {
+	"from_station_id": 47,
+	"from_station_name": "State St & Kinzie St"
+}, {
+	"from_station_id": 85,
+	"from_station_name": "Michigan Ave & Oak St"
+}, {
+	"from_station_id": 13,
+	"from_station_name": "Wilton Ave & Diversey Pkwy"
+}, {
+	"from_station_id": 520,
+	"from_station_name": "Greenview Ave & Jarvis Ave"
+}, {
+	"from_station_id": 256,
+	"from_station_name": "Broadway & Sheridan Rd"
+}, {
+	"from_station_id": 254,
+	"from_station_name": "Pine Grove Ave & Irving Park Rd"
+}, {
+	"from_station_id": 66,
+	"from_station_name": "Clinton St & Lake St"
+}, {
+	"from_station_id": 464,
+	"from_station_name": "Damen Ave & Foster Ave"
+}, {
+	"from_station_id": 418,
+	"from_station_name": "Ellis Ave & 53rd St"
+}, {
+	"from_station_id": 144,
+	"from_station_name": "Larrabee St & Webster Ave"
+}, {
+	"from_station_id": 253,
+	"from_station_name": "Winthrop Ave & Lawrence Ave"
+}, {
+	"from_station_id": 304,
+	"from_station_name": "Broadway & Waveland Ave"
+}, {
+	"from_station_id": 206,
+	"from_station_name": "Halsted St & Archer Ave"
+}, {
+	"from_station_id": 522,
+	"from_station_name": "Bosworth Ave & Howard St"
+}, {
+	"from_station_id": 193,
+	"from_station_name": "State St & 29th St"
+}, {
+	"from_station_id": 260,
+	"from_station_name": "Kedzie Ave & Milwaukee Ave"
+}, {
+	"from_station_id": 636,
+	"from_station_name": "Orleans St & Hubbard St (*)"
+}, {
+	"from_station_id": 240,
+	"from_station_name": "Sheridan Rd & Irving Park Rd"
+}, {
+	"from_station_id": 313,
+	"from_station_name": "Lakeview Ave & Fullerton Pkwy"
+}, {
+	"from_station_id": 290,
+	"from_station_name": "Kedzie Ave & Palmer Ct"
+}, {
+	"from_station_id": 460,
+	"from_station_name": "Clark St & Bryn Mawr Ave"
+}, {
+	"from_station_id": 236,
+	"from_station_name": "Sedgwick St & Schiller St"
+}, {
+	"from_station_id": 194,
+	"from_station_name": "Wabash Ave & Wacker Pl"
+}, {
+	"from_station_id": 367,
+	"from_station_name": "Racine Ave & 35th St"
+}, {
+	"from_station_id": 316,
+	"from_station_name": "Damen Ave & Sunnyside Ave"
+}, {
+	"from_station_id": 359,
+	"from_station_name": "Larrabee St & Division St"
+}, {
+	"from_station_id": 71,
+	"from_station_name": "Morgan St & Lake St"
+}, {
+	"from_station_id": 29,
+	"from_station_name": "Noble St & Milwaukee Ave"
+}, {
+	"from_station_id": 230,
+	"from_station_name": "Lincoln Ave & Roscoe St"
+}, {
+	"from_station_id": 77,
+	"from_station_name": "Clinton St & Madison St"
+}, {
+	"from_station_id": 94,
+	"from_station_name": "Clark St & Armitage Ave"
+}, {
+	"from_station_id": 113,
+	"from_station_name": "Bissell St & Armitage Ave"
+}, {
+	"from_station_id": 168,
+	"from_station_name": "Michigan Ave & 14th St"
+}, {
+	"from_station_id": 86,
+	"from_station_name": "Eckhart Park"
+}, {
+	"from_station_id": 128,
+	"from_station_name": "Damen Ave & Chicago Ave"
+}, {
+	"from_station_id": 87,
+	"from_station_name": "Racine Ave & Fullerton Ave"
+}, {
+	"from_station_id": 114,
+	"from_station_name": "Sheffield Ave & Waveland Ave"
+}, {
+	"from_station_id": 239,
+	"from_station_name": "Western Ave & Leland Ave"
+}, {
+	"from_station_id": 117,
+	"from_station_name": "Wilton Ave & Belmont Ave"
+}, {
+	"from_station_id": 318,
+	"from_station_name": "Southport Ave & Irving Park Rd"
+}, {
+	"from_station_id": 291,
+	"from_station_name": "Wells St & Evergreen Ave"
+}, {
+	"from_station_id": 197,
+	"from_station_name": "Michigan Ave & Madison St"
+}, {
+	"from_station_id": 331,
+	"from_station_name": "Halsted St & Clybourn Ave (*)"
+}, {
+	"from_station_id": 46,
+	"from_station_name": "Wells St & Walton St"
+}, {
+	"from_station_id": 115,
+	"from_station_name": "Sheffield Ave & Wellington Ave"
+}, {
+	"from_station_id": 16,
+	"from_station_name": "Paulina Ave & North Ave"
+}, {
+	"from_station_id": 106,
+	"from_station_name": "State St & Pearson St"
+}, {
+	"from_station_id": 231,
+	"from_station_name": "Sheridan Rd & Montrose Ave"
+}, {
+	"from_station_id": 226,
+	"from_station_name": "Racine Ave & Belmont Ave"
+}, {
+	"from_station_id": 229,
+	"from_station_name": "Southport Ave & Roscoe St"
+}, {
+	"from_station_id": 72,
+	"from_station_name": "Wabash Ave & 16th St"
+}, {
+	"from_station_id": 24,
+	"from_station_name": "Fairbanks Ct & Grand Ave"
+}, {
+	"from_station_id": 69,
+	"from_station_name": "Damen Ave & Pierce Ave"
+}, {
+	"from_station_id": 273,
+	"from_station_name": "Michigan Ave & 18th St"
+}, {
+	"from_station_id": 217,
+	"from_station_name": "Racine Ave (May St) & Fulton St"
+}, {
+	"from_station_id": 323,
+	"from_station_name": "Sheridan Rd & Lawrence Ave"
+}, {
+	"from_station_id": 220,
+	"from_station_name": "Clark St & Drummond Pl"
+}, {
+	"from_station_id": 482,
+	"from_station_name": "Campbell Ave & Montrose Ave"
+}, {
+	"from_station_id": 145,
+	"from_station_name": "Mies van der Rohe Way & Chestnut St"
+}, {
+	"from_station_id": 504,
+	"from_station_name": "Campbell Ave & Fullerton Ave"
+}, {
+	"from_station_id": 49,
+	"from_station_name": "Dearborn St & Monroe St"
+}, {
+	"from_station_id": 161,
+	"from_station_name": "Rush St & Superior St"
+}, {
+	"from_station_id": 497,
+	"from_station_name": "Kimball Ave & Belmont Ave"
+}, {
+	"from_station_id": 476,
+	"from_station_name": "Kedzie Ave & Leland Ave"
+}, {
+	"from_station_id": 321,
+	"from_station_name": "Wabash Ave & 9th St"
+}, {
+	"from_station_id": 509,
+	"from_station_name": "Troy St & North Ave"
+}, {
+	"from_station_id": 198,
+	"from_station_name": "Green St & Madison St"
+}, {
+	"from_station_id": 224,
+	"from_station_name": "Halsted St & Willow St"
+}, {
+	"from_station_id": 59,
+	"from_station_name": "Wabash Ave & Roosevelt Rd"
+}, {
+	"from_station_id": 332,
+	"from_station_name": "Burling St (Halsted) & Diversey Pkwy (Temp)"
+}, {
+	"from_station_id": 133,
+	"from_station_name": "Kingsbury St & Kinzie St"
+}, {
+	"from_station_id": 100,
+	"from_station_name": "Orleans St & Merchandise Mart Plaza"
+}, {
+	"from_station_id": 238,
+	"from_station_name": "Wolcott (Ravenswood) Ave & Montrose Ave (*)"
+}, {
+	"from_station_id": 419,
+	"from_station_name": "Lake Park Ave & 53rd St"
+}, {
+	"from_station_id": 627,
+	"from_station_name": "LaSalle Dr & Huron St (*)"
+}, {
+	"from_station_id": 306,
+	"from_station_name": "Sheridan Rd & Buena Ave"
+}, {
+	"from_station_id": 632,
+	"from_station_name": "Clark St & Newport St"
+}, {
+	"from_station_id": 210,
+	"from_station_name": "Ashland Ave & Division St"
+}, {
+	"from_station_id": 116,
+	"from_station_name": "Western Ave & Winnebago Ave"
+}, {
+	"from_station_id": 81,
+	"from_station_name": "Daley Center Plaza"
+}, {
+	"from_station_id": 67,
+	"from_station_name": "Sheffield Ave & Fullerton Ave"
+}, {
+	"from_station_id": 181,
+	"from_station_name": "LaSalle St & Illinois St"
+}, {
+	"from_station_id": 350,
+	"from_station_name": "Ashland Ave & Chicago Ave"
+}, {
+	"from_station_id": 514,
+	"from_station_name": "Ridge Blvd & Howard St"
+}, {
+	"from_station_id": 506,
+	"from_station_name": "Spaulding Ave & Armitage Ave"
+}, {
+	"from_station_id": 483,
+	"from_station_name": "Avondale Ave & Irving Park Rd"
+}, {
+	"from_station_id": 405,
+	"from_station_name": "Wentworth Ave & 35th St"
+}, {
+	"from_station_id": 572,
+	"from_station_name": "State St & 76th St"
+}, {
+	"from_station_id": 471,
+	"from_station_name": "Francisco Ave & Foster Ave"
+}, {
+	"from_station_id": 163,
+	"from_station_name": "Damen Ave & Clybourn Ave"
+}, {
+	"from_station_id": 7,
+	"from_station_name": "Field Blvd & South Water St"
+}, {
+	"from_station_id": 257,
+	"from_station_name": "Lincoln Ave & Waveland Ave"
+}, {
+	"from_station_id": 52,
+	"from_station_name": "Michigan Ave & Lake St"
+}, {
+	"from_station_id": 394,
+	"from_station_name": "Clark St & 9th St (AMLI)"
+}, {
+	"from_station_id": 134,
+	"from_station_name": "Peoria St & Jackson Blvd"
+}, {
+	"from_station_id": 499,
+	"from_station_name": "Kosciuszko Park"
+}, {
+	"from_station_id": 533,
+	"from_station_name": "Central Park Blvd & 5th Ave"
+}, {
+	"from_station_id": 56,
+	"from_station_name": "Desplaines St & Kinzie St"
+}, {
+	"from_station_id": 339,
+	"from_station_name": "Emerald Ave & 31st St"
+}, {
+	"from_station_id": 111,
+	"from_station_name": "Sedgwick St & Huron St"
+}, {
+	"from_station_id": 174,
+	"from_station_name": "Canal St & Madison St"
+}, {
+	"from_station_id": 43,
+	"from_station_name": "Michigan Ave & Washington St"
+}, {
+	"from_station_id": 57,
+	"from_station_name": "Clinton St & Roosevelt Rd"
+}, {
+	"from_station_id": 76,
+	"from_station_name": "Lake Shore Dr & Monroe St"
+}, {
+	"from_station_id": 320,
+	"from_station_name": "Loomis St & Lexington St"
+}, {
+	"from_station_id": 19,
+	"from_station_name": "Loomis St & Taylor St (*)"
+}, {
+	"from_station_id": 275,
+	"from_station_name": "Ashland Ave & 13th St"
+}, {
+	"from_station_id": 31,
+	"from_station_name": "Franklin St & Chicago Ave"
+}, {
+	"from_station_id": 383,
+	"from_station_name": "Paulina St & Flournoy St"
+}, {
+	"from_station_id": 6,
+	"from_station_name": "Dusable Harbor"
+}, {
+	"from_station_id": 223,
+	"from_station_name": "Clifton Ave & Armitage Ave"
+}, {
+	"from_station_id": 341,
+	"from_station_name": "Adler Planetarium"
+}, {
+	"from_station_id": 247,
+	"from_station_name": "Shore Dr & 55th St"
+}, {
+	"from_station_id": 659,
+	"from_station_name": "Leavitt St & Chicago Ave"
+}, {
+	"from_station_id": 21,
+	"from_station_name": "Aberdeen St & Jackson Blvd"
+}, {
+	"from_station_id": 303,
+	"from_station_name": "Broadway & Cornelia Ave"
+}, {
+	"from_station_id": 344,
+	"from_station_name": "Ravenswood Ave & Lawrence Ave"
+}, {
+	"from_station_id": 180,
+	"from_station_name": "Ritchie Ct & Banks St"
+}, {
+	"from_station_id": 243,
+	"from_station_name": "Lincoln Ave & Sunnyside Ave"
+}, {
+	"from_station_id": 620,
+	"from_station_name": "Orleans St & Chestnut St (NEXT Apts)"
+}, {
+	"from_station_id": 334,
+	"from_station_name": "Lake Shore Dr & Belmont Ave"
+}, {
+	"from_station_id": 38,
+	"from_station_name": "Clark St & Lake St"
+}, {
+	"from_station_id": 177,
+	"from_station_name": "Theater on the Lake"
+}, {
+	"from_station_id": 61,
+	"from_station_name": "Wood St & Milwaukee Ave"
+}, {
+	"from_station_id": 140,
+	"from_station_name": "Dearborn Pkwy & Delaware Pl"
+}, {
+	"from_station_id": 279,
+	"from_station_name": "Halsted St & 35th St (*)"
+}, {
+	"from_station_id": 340,
+	"from_station_name": "Clark St & Wrightwood Ave"
+}, {
+	"from_station_id": 477,
+	"from_station_name": "Manor Ave & Leland Ave"
+}, {
+	"from_station_id": 99,
+	"from_station_name": "Lake Shore Dr & Ohio St"
+}, {
+	"from_station_id": 118,
+	"from_station_name": "Sedgwick St & North Ave"
+}, {
+	"from_station_id": 110,
+	"from_station_name": "Dearborn St & Erie St"
+}, {
+	"from_station_id": 196,
+	"from_station_name": "Cityfront Plaza Dr & Pioneer Ct"
+}, {
+	"from_station_id": 42,
+	"from_station_name": "Wabash Ave & Cermak Rd"
+}, {
+	"from_station_id": 324,
+	"from_station_name": "Stockton Dr & Wrightwood Ave"
+}, {
+	"from_station_id": 454,
+	"from_station_name": "Broadway & Granville Ave"
+}, {
+	"from_station_id": 125,
+	"from_station_name": "Rush St & Hubbard St"
+}, {
+	"from_station_id": 342,
+	"from_station_name": "Wolcott Ave & Polk St"
+}, {
+	"from_station_id": 493,
+	"from_station_name": "Western Ave & Roscoe St"
+}, {
+	"from_station_id": 143,
+	"from_station_name": "Sedgwick St & Webster Ave"
+}, {
+	"from_station_id": 364,
+	"from_station_name": "Larrabee St & Oak St"
+}, {
+	"from_station_id": 195,
+	"from_station_name": "Columbus Dr & Randolph St"
+}, {
+	"from_station_id": 312,
+	"from_station_name": "Clarendon Ave & Gordon Ter"
+}, {
+	"from_station_id": 232,
+	"from_station_name": "Pine Grove Ave & Waveland Ave"
+}, {
+	"from_station_id": 467,
+	"from_station_name": "Western Ave & Lunt Ave"
+}, {
+	"from_station_id": 262,
+	"from_station_name": "Halsted St & 37th St"
+}, {
+	"from_station_id": 32,
+	"from_station_name": "Racine Ave & Congress Pkwy"
+}, {
+	"from_station_id": 84,
+	"from_station_name": "Milwaukee Ave & Grand Ave"
+}, {
+	"from_station_id": 463,
+	"from_station_name": "Clark St & Berwyn Ave"
+}, {
+	"from_station_id": 182,
+	"from_station_name": "Wells St & Elm St"
+}, {
+	"from_station_id": 80,
+	"from_station_name": "Aberdeen St & Monroe St"
+}, {
+	"from_station_id": 209,
+	"from_station_name": "Normal Ave & Archer Ave"
+}, {
+	"from_station_id": 301,
+	"from_station_name": "Clark St & Schiller St"
+}, {
+	"from_station_id": 68,
+	"from_station_name": "Clinton St & Tilden St"
+}, {
+	"from_station_id": 88,
+	"from_station_name": "Racine Ave & Randolph St"
+}, {
+	"from_station_id": 296,
+	"from_station_name": "Broadway & Belmont Ave"
+}, {
+	"from_station_id": 658,
+	"from_station_name": "Leavitt St & Division St (*)"
+}, {
+	"from_station_id": 172,
+	"from_station_name": "Rush St & Cedar St"
+}, {
+	"from_station_id": 205,
+	"from_station_name": "Paulina St & 18th St"
+}, {
+	"from_station_id": 192,
+	"from_station_name": "Canal St & Adams St"
+}, {
+	"from_station_id": 327,
+	"from_station_name": "Sheffield Ave & Webster Ave"
+}, {
+	"from_station_id": 157,
+	"from_station_name": "Lake Shore Dr & Wellington Ave"
+}, {
+	"from_station_id": 73,
+	"from_station_name": "Jefferson St & Monroe St"
+}, {
+	"from_station_id": 190,
+	"from_station_name": "Southport Ave & Wrightwood Ave"
+}, {
+	"from_station_id": 255,
+	"from_station_name": "Indiana Ave & Roosevelt Rd"
+}, {
+	"from_station_id": 250,
+	"from_station_name": "Ashland Ave & Wellington Ave"
+}, {
+	"from_station_id": 251,
+	"from_station_name": "Clarendon Ave & Leland Ave"
+}, {
+	"from_station_id": 571,
+	"from_station_name": "Vernon Ave & 75th St"
+}, {
+	"from_station_id": 50,
+	"from_station_name": "Clark St & Ida B Wells Dr"
+}, {
+	"from_station_id": 51,
+	"from_station_name": "Clark St & Randolph St"
+}, {
+	"from_station_id": 374,
+	"from_station_name": "Western Ave & Walton St"
+}, {
+	"from_station_id": 26,
+	"from_station_name": "McClurg Ct & Illinois St"
+}, {
+	"from_station_id": 165,
+	"from_station_name": "Clark St & Grace St"
+}, {
+	"from_station_id": 346,
+	"from_station_name": "Ada St & Washington Blvd"
+}, {
+	"from_station_id": 213,
+	"from_station_name": "Leavitt St & North Ave"
+}, {
+	"from_station_id": 160,
+	"from_station_name": "Campbell Ave & North Ave"
+}, {
+	"from_station_id": 54,
+	"from_station_name": "Ogden Ave & Chicago Ave"
+}, {
+	"from_station_id": 178,
+	"from_station_name": "State St & 19th St"
+}, {
+	"from_station_id": 141,
+	"from_station_name": "Clark St & Lincoln Ave"
+}, {
+	"from_station_id": 277,
+	"from_station_name": "Ashland Ave & Grand Ave"
+}, {
+	"from_station_id": 188,
+	"from_station_name": "Greenview Ave & Fullerton Ave"
+}, {
+	"from_station_id": 41,
+	"from_station_name": "Federal St & Polk St"
+}, {
+	"from_station_id": 156,
+	"from_station_name": "Clark St & Wellington Ave"
+}, {
+	"from_station_id": 127,
+	"from_station_name": "Lincoln Ave & Fullerton Ave"
+}, {
+	"from_station_id": 130,
+	"from_station_name": "Damen Ave & Division St"
+}, {
+	"from_station_id": 138,
+	"from_station_name": "Clybourn Ave & Division St"
+}, {
+	"from_station_id": 176,
+	"from_station_name": "Clark St & Elm St"
+}, {
+	"from_station_id": 337,
+	"from_station_name": "Clark St & Chicago Ave"
+}, {
+	"from_station_id": 292,
+	"from_station_name": "Southport Ave & Clark St"
+}, {
+	"from_station_id": 107,
+	"from_station_name": "Desplaines St & Jackson Blvd"
+}, {
+	"from_station_id": 244,
+	"from_station_name": "Ravenswood Ave & Irving Park Rd"
+}, {
+	"from_station_id": 295,
+	"from_station_name": "Broadway & Argyle St"
+}, {
+	"from_station_id": 53,
+	"from_station_name": "Wells St & Huron St"
+}, {
+	"from_station_id": 272,
+	"from_station_name": "Indiana Ave & 31st St"
+}, {
+	"from_station_id": 601,
+	"from_station_name": "Central St Metra"
+}, {
+	"from_station_id": 453,
+	"from_station_name": "Clark St & Schreiber Ave"
+}, {
+	"from_station_id": 349,
+	"from_station_name": "Halsted St & Wrightwood Ave"
+}, {
+	"from_station_id": 89,
+	"from_station_name": "Financial Pl & Ida B Wells Dr (Temp)"
+}, {
+	"from_station_id": 154,
+	"from_station_name": "Southport Ave & Belmont Ave"
+}, {
+	"from_station_id": 354,
+	"from_station_name": "Sheridan Rd & Greenleaf Ave"
+}, {
+	"from_station_id": 142,
+	"from_station_name": "McClurg Ct & Erie St"
+}, {
+	"from_station_id": 505,
+	"from_station_name": "Winchester Ave & Elston Ave"
+}, {
+	"from_station_id": 27,
+	"from_station_name": "Larrabee St & North Ave"
+}, {
+	"from_station_id": 121,
+	"from_station_name": "Blackstone Ave & Hyde Park Blvd"
+}, {
+	"from_station_id": 93,
+	"from_station_name": "Sheffield Ave & Willow St"
+}, {
+	"from_station_id": 228,
+	"from_station_name": "Damen Ave & Melrose Ave"
+}, {
+	"from_station_id": 293,
+	"from_station_name": "Broadway & Wilson Ave"
+}, {
+	"from_station_id": 314,
+	"from_station_name": "Ravenswood Ave & Berteau Ave"
+}, {
+	"from_station_id": 328,
+	"from_station_name": "Ellis Ave & 58th St"
+}, {
+	"from_station_id": 159,
+	"from_station_name": "Claremont Ave & Hirsch St"
+}, {
+	"from_station_id": 225,
+	"from_station_name": "Halsted St & Dickens Ave"
+}, {
+	"from_station_id": 131,
+	"from_station_name": "Lincoln Ave & Belmont Ave"
+}, {
+	"from_station_id": 36,
+	"from_station_name": "Franklin St & Jackson Blvd"
+}, {
+	"from_station_id": 25,
+	"from_station_name": "Michigan Ave & Pearson St"
+}, {
+	"from_station_id": 33,
+	"from_station_name": "State St & Van Buren St"
+}, {
+	"from_station_id": 17,
+	"from_station_name": "Honore St & Division St"
+}, {
+	"from_station_id": 23,
+	"from_station_name": "Orleans St & Elm St (*)"
+}, {
+	"from_station_id": 621,
+	"from_station_name": "Aberdeen St & Randolph St"
+}, {
+	"from_station_id": 281,
+	"from_station_name": "Western Ave & 24th St"
+}, {
+	"from_station_id": 414,
+	"from_station_name": "Canal St & Taylor St"
+}, {
+	"from_station_id": 300,
+	"from_station_name": "Broadway & Barry Ave"
+}, {
+	"from_station_id": 175,
+	"from_station_name": "Wells St & Polk St"
+}, {
+	"from_station_id": 218,
+	"from_station_name": "Wells St & 19th St"
+}, {
+	"from_station_id": 465,
+	"from_station_name": "Marine Dr & Ainslie St"
+}, {
+	"from_station_id": 234,
+	"from_station_name": "Clark St & Montrose Ave"
+}, {
+	"from_station_id": 442,
+	"from_station_name": "California Ave & 23rd Pl"
+}, {
+	"from_station_id": 153,
+	"from_station_name": "Southport Ave & Wellington Ave"
+}, {
+	"from_station_id": 169,
+	"from_station_name": "Canal St & Harrison St"
+}, {
+	"from_station_id": 368,
+	"from_station_name": "Ashland Ave & Archer Ave"
+}, {
+	"from_station_id": 294,
+	"from_station_name": "Broadway & Berwyn Ave"
+}, {
+	"from_station_id": 637,
+	"from_station_name": "Wood St & Chicago Ave (*)"
+}, {
+	"from_station_id": 525,
+	"from_station_name": "Glenwood Ave & Touhy Ave"
+}, {
+	"from_station_id": 119,
+	"from_station_name": "Ashland Ave & Lake St (Temp)"
+}, {
+	"from_station_id": 164,
+	"from_station_name": "Franklin St & Lake St"
+}, {
+	"from_station_id": 129,
+	"from_station_name": "Blue Island Ave & 18th St"
+}, {
+	"from_station_id": 403,
+	"from_station_name": "Wentworth Ave & 33rd St"
+}, {
+	"from_station_id": 298,
+	"from_station_name": "Lincoln Ave & Belle Plaine Ave"
+}, {
+	"from_station_id": 459,
+	"from_station_name": "Lakefront Trail & Bryn Mawr Ave"
+}, {
+	"from_station_id": 179,
+	"from_station_name": "MLK Jr Dr & Pershing Rd"
+}, {
+	"from_station_id": 191,
+	"from_station_name": "Canal St & Monroe St (*)"
+}, {
+	"from_station_id": 126,
+	"from_station_name": "Clark St & North Ave"
+}, {
+	"from_station_id": 96,
+	"from_station_name": "Desplaines St & Randolph St"
+}, {
+	"from_station_id": 283,
+	"from_station_name": "LaSalle St & Jackson Blvd"
+}, {
+	"from_station_id": 146,
+	"from_station_name": "Loomis St & Jackson Blvd"
+}, {
+	"from_station_id": 494,
+	"from_station_name": "Kedzie Ave & Bryn Mawr Ave"
+}, {
+	"from_station_id": 638,
+	"from_station_name": "Clinton St & Jackson Blvd (*)"
+}, {
+	"from_station_id": 639,
+	"from_station_name": "Lakefront Trail & Wilson Ave"
+}, {
+	"from_station_id": 48,
+	"from_station_name": "Larrabee St & Kingsbury St"
+}, {
+	"from_station_id": 212,
+	"from_station_name": "Wells St & Hubbard St"
+}, {
+	"from_station_id": 302,
+	"from_station_name": "Sheffield Ave & Wrightwood Ave"
+}, {
+	"from_station_id": 4,
+	"from_station_name": "Burnham Harbor"
+}, {
+	"from_station_id": 20,
+	"from_station_name": "Sheffield Ave & Kingsbury St"
+}, {
+	"from_station_id": 185,
+	"from_station_name": "Stave St & Armitage Ave"
+}, {
+	"from_station_id": 74,
+	"from_station_name": "Kingsbury St & Erie St"
+}, {
+	"from_station_id": 166,
+	"from_station_name": "Ashland Ave & Wrightwood Ave"
+}, {
+	"from_station_id": 280,
+	"from_station_name": "Morgan St & 31st St"
+}, {
+	"from_station_id": 329,
+	"from_station_name": "Lake Shore Dr & Diversey Pkwy"
+}, {
+	"from_station_id": 28,
+	"from_station_name": "Larrabee St & Menomonee St"
+}, {
+	"from_station_id": 377,
+	"from_station_name": "Kedzie Ave & Lake St"
+}, {
+	"from_station_id": 242,
+	"from_station_name": "Damen Ave & Leland Ave"
+}, {
+	"from_station_id": 171,
+	"from_station_name": "May St & Cullerton St"
+}, {
+	"from_station_id": 376,
+	"from_station_name": "Artesian Ave & Hubbard St"
+}, {
+	"from_station_id": 381,
+	"from_station_name": "Western Ave & Monroe St"
+}, {
+	"from_station_id": 365,
+	"from_station_name": "Halsted St & North Branch St"
+}, {
+	"from_station_id": 308,
+	"from_station_name": "Seeley Ave & Roscoe St"
+}, {
+	"from_station_id": 425,
+	"from_station_name": "Harper Ave & 59th St"
+}, {
+	"from_station_id": 158,
+	"from_station_name": "Milwaukee Ave & Wabansia Ave"
+}, {
+	"from_station_id": 183,
+	"from_station_name": "Damen Ave & Thomas St (Augusta Blvd)"
+}, {
+	"from_station_id": 22,
+	"from_station_name": "May St & Taylor St"
+}, {
+	"from_station_id": 523,
+	"from_station_name": "Eastlake Ter & Rogers Ave"
+}, {
+	"from_station_id": 481,
+	"from_station_name": "California Ave & Montrose Ave"
+}, {
+	"from_station_id": 219,
+	"from_station_name": "Damen Ave & Cortland St"
+}, {
+	"from_station_id": 502,
+	"from_station_name": "California Ave & Altgeld St"
+}, {
+	"from_station_id": 259,
+	"from_station_name": "California Ave & Francis Pl"
+}, {
+	"from_station_id": 596,
+	"from_station_name": "Benson Ave & Church St"
+}, {
+	"from_station_id": 276,
+	"from_station_name": "California Ave & North Ave"
+}, {
+	"from_station_id": 284,
+	"from_station_name": "Michigan Ave & Jackson Blvd"
+}, {
+	"from_station_id": 9,
+	"from_station_name": "Leavitt St & Archer Ave"
+}, {
+	"from_station_id": 45,
+	"from_station_name": "Michigan Ave & Ida B Wells Dr"
+}, {
+	"from_station_id": 222,
+	"from_station_name": "Milwaukee Ave & Rockwell St"
+}, {
+	"from_station_id": 112,
+	"from_station_name": "Green St & Randolph St"
+}, {
+	"from_station_id": 214,
+	"from_station_name": "Damen Ave & Grand Ave"
+}, {
+	"from_station_id": 604,
+	"from_station_name": "Sheridan Rd & Noyes St (NU)"
+}, {
+	"from_station_id": 91,
+	"from_station_name": "Clinton St & Washington Blvd"
+}, {
+	"from_station_id": 237,
+	"from_station_name": "MLK Jr Dr & 29th St"
+}, {
+	"from_station_id": 322,
+	"from_station_name": "Kimbark Ave & 53rd St"
+}, {
+	"from_station_id": 447,
+	"from_station_name": "Glenwood Ave & Morse Ave"
+}, {
+	"from_station_id": 5,
+	"from_station_name": "State St & Harrison St"
+}, {
+	"from_station_id": 120,
+	"from_station_name": "Wentworth Ave & Cermak Rd (Temp)"
+}, {
+	"from_station_id": 338,
+	"from_station_name": "Calumet Ave & 18th St"
+}, {
+	"from_station_id": 325,
+	"from_station_name": "Clark St & Winnemac Ave"
+}, {
+	"from_station_id": 58,
+	"from_station_name": "Marshfield Ave & Cortland St"
+}, {
+	"from_station_id": 624,
+	"from_station_name": "Dearborn St & Van Buren St (*)"
+}, {
+	"from_station_id": 343,
+	"from_station_name": "Racine Ave & Wrightwood Ave"
+}, {
+	"from_station_id": 319,
+	"from_station_name": "Greenview Ave & Diversey Pkwy"
+}, {
+	"from_station_id": 511,
+	"from_station_name": "Albany Ave & Bloomingdale Ave"
+}, {
+	"from_station_id": 430,
+	"from_station_name": "MLK Jr Dr & 63rd St"
+}, {
+	"from_station_id": 347,
+	"from_station_name": "Ashland Ave & Grace St"
+}, {
+	"from_station_id": 486,
+	"from_station_name": "Oakley Ave & Irving Park Rd"
+}, {
+	"from_station_id": 490,
+	"from_station_name": "Troy St & Elston Ave"
+}, {
+	"from_station_id": 37,
+	"from_station_name": "Dearborn St & Adams St"
+}, {
+	"from_station_id": 162,
+	"from_station_name": "Damen Ave & Wellington Ave"
+}, {
+	"from_station_id": 501,
+	"from_station_name": "Richmond St & Diversey Ave"
+}, {
+	"from_station_id": 461,
+	"from_station_name": "Broadway & Ridge Ave"
+}, {
+	"from_station_id": 97,
+	"from_station_name": "Field Museum"
+}, {
+	"from_station_id": 241,
+	"from_station_name": "Morgan St & Polk St"
+}, {
+	"from_station_id": 258,
+	"from_station_name": "Logan Blvd & Elston Ave"
+}, {
+	"from_station_id": 317,
+	"from_station_name": "Wood St & Taylor St"
+}, {
+	"from_station_id": 427,
+	"from_station_name": "Cottage Grove Ave & 63rd St"
+}, {
+	"from_station_id": 186,
+	"from_station_name": "Ogden Ave & Race Ave"
+}, {
+	"from_station_id": 227,
+	"from_station_name": "Southport Ave & Waveland Ave"
+}, {
+	"from_station_id": 149,
+	"from_station_name": "Calumet Ave & 33rd St"
+}, {
+	"from_station_id": 423,
+	"from_station_name": "University Ave & 57th St"
+}, {
+	"from_station_id": 626,
+	"from_station_name": "Delano Ct & Roosevelt Rd"
+}, {
+	"from_station_id": 267,
+	"from_station_name": "Lake Park Ave & 47th St"
+}, {
+	"from_station_id": 101,
+	"from_station_name": "63rd St Beach"
+}, {
+	"from_station_id": 261,
+	"from_station_name": "Hermitage Ave & Polk St"
+}, {
+	"from_station_id": 287,
+	"from_station_name": "Franklin St & Monroe St"
+}, {
+	"from_station_id": 60,
+	"from_station_name": "Dayton St & North Ave"
+}, {
+	"from_station_id": 655,
+	"from_station_name": "Hoyne Ave & Balmoral Ave"
+}, {
+	"from_station_id": 662,
+	"from_station_name": "Dodge Ave & Mulford St"
+}, {
+	"from_station_id": 208,
+	"from_station_name": "Ashland Ave & 21st St"
+}, {
+	"from_station_id": 416,
+	"from_station_name": "Dorchester Ave & 49th St"
+}, {
+	"from_station_id": 451,
+	"from_station_name": "Sheridan Rd & Loyola Ave"
+}, {
+	"from_station_id": 472,
+	"from_station_name": "Lincoln Ave & Winona St"
+}, {
+	"from_station_id": 39,
+	"from_station_name": "Wabash Ave & Adams St"
+}, {
+	"from_station_id": 660,
+	"from_station_name": "Sheridan Rd & Columbia Ave"
+}, {
+	"from_station_id": 2,
+	"from_station_name": "Buckingham Fountain (Temp)"
+}, {
+	"from_station_id": 305,
+	"from_station_name": "Western Ave & Division St"
+}, {
+	"from_station_id": 592,
+	"from_station_name": "Knox Ave & Montrose Ave"
+}, {
+	"from_station_id": 207,
+	"from_station_name": "Emerald Ave & 28th St"
+}, {
+	"from_station_id": 390,
+	"from_station_name": "Wentworth Ave & 63rd St"
+}, {
+	"from_station_id": 485,
+	"from_station_name": "Sawyer Ave & Irving Park Rd"
+}, {
+	"from_station_id": 426,
+	"from_station_name": "Ellis Ave & 60th St"
+}, {
+	"from_station_id": 375,
+	"from_station_name": "Sacramento Blvd & Franklin Blvd"
+}, {
+	"from_station_id": 215,
+	"from_station_name": "Damen Ave & Madison St"
+}, {
+	"from_station_id": 40,
+	"from_station_name": "LaSalle St & Adams St"
+}, {
+	"from_station_id": 489,
+	"from_station_name": "Drake Ave & Addison St"
+}, {
+	"from_station_id": 333,
+	"from_station_name": "Ashland Ave & Blackhawk St"
+}, {
+	"from_station_id": 245,
+	"from_station_name": "Clarendon Ave & Junior Ter"
+}, {
+	"from_station_id": 478,
+	"from_station_name": "Rockwell St & Eastwood Ave"
+}, {
+	"from_station_id": 75,
+	"from_station_name": "Canal St & Jackson Blvd"
+}, {
+	"from_station_id": 441,
+	"from_station_name": "Kedzie Ave & 24th St"
+}, {
+	"from_station_id": 457,
+	"from_station_name": "Clark St & Elmdale Ave"
+}, {
+	"from_station_id": 109,
+	"from_station_name": "900 W Harrison St"
+}, {
+	"from_station_id": 635,
+	"from_station_name": "Fairbanks St & Superior St (*)"
+}, {
+	"from_station_id": 286,
+	"from_station_name": "Franklin St & Quincy St"
+}, {
+	"from_station_id": 657,
+	"from_station_name": "Wood St & Augusta Blvd"
+}, {
+	"from_station_id": 366,
+	"from_station_name": "Loomis St & Archer Ave"
+}, {
+	"from_station_id": 18,
+	"from_station_name": "Wacker Dr & Washington St"
+}, {
+	"from_station_id": 62,
+	"from_station_name": "McCormick Place"
+}, {
+	"from_station_id": 30,
+	"from_station_name": "Ashland Ave & Augusta Blvd"
+}, {
+	"from_station_id": 492,
+	"from_station_name": "Leavitt St & Addison St"
+}, {
+	"from_station_id": 203,
+	"from_station_name": "Western Ave & 21st St"
+}, {
+	"from_station_id": 508,
+	"from_station_name": "Central Park Ave & North Ave"
+}, {
+	"from_station_id": 663,
+	"from_station_name": "Lincolnwood Dr & Central St"
+}, {
+	"from_station_id": 246,
+	"from_station_name": "Ashland Ave & Belle Plaine Ave"
+}, {
+	"from_station_id": 507,
+	"from_station_name": "Humboldt Blvd & Armitage Ave"
+}, {
+	"from_station_id": 470,
+	"from_station_name": "Kedzie Ave & Foster Ave"
+}, {
+	"from_station_id": 310,
+	"from_station_name": "Damen Ave & Charleston St"
+}, {
+	"from_station_id": 137,
+	"from_station_name": "Morgan Ave & 14th Pl"
+}, {
+	"from_station_id": 622,
+	"from_station_name": "California Ave & Cortez St"
+}, {
+	"from_station_id": 448,
+	"from_station_name": "Warren Park East"
+}, {
+	"from_station_id": 92,
+	"from_station_name": "Carpenter St & Huron St"
+}, {
+	"from_station_id": 311,
+	"from_station_name": "Leavitt St & Lawrence Ave"
+}, {
+	"from_station_id": 108,
+	"from_station_name": "Halsted St & Polk St"
+}, {
+	"from_station_id": 233,
+	"from_station_name": "Sangamon St & Washington Blvd (*)"
+}, {
+	"from_station_id": 297,
+	"from_station_name": "Paulina St & Montrose Ave"
+}, {
+	"from_station_id": 307,
+	"from_station_name": "Southport Ave & Clybourn Ave"
+}, {
+	"from_station_id": 264,
+	"from_station_name": "Stetson Ave & South Water St"
+}, {
+	"from_station_id": 248,
+	"from_station_name": "Woodlawn Ave & 55th St"
+}, {
+	"from_station_id": 382,
+	"from_station_name": "Western Ave & Congress Pkwy"
+}, {
+	"from_station_id": 402,
+	"from_station_name": "Shields Ave & 31st St"
+}, {
+	"from_station_id": 458,
+	"from_station_name": "Broadway & Thorndale Ave"
+}, {
+	"from_station_id": 503,
+	"from_station_name": "Drake Ave & Fullerton Ave"
+}, {
+	"from_station_id": 488,
+	"from_station_name": "Pulaski Rd & Eddy St (Temp)"
+}, {
+	"from_station_id": 326,
+	"from_station_name": "Clark St & Leland Ave"
+}, {
+	"from_station_id": 285,
+	"from_station_name": "Wood St & Hubbard St"
+}, {
+	"from_station_id": 449,
+	"from_station_name": "Clark St & Columbia Ave"
+}, {
+	"from_station_id": 484,
+	"from_station_name": "Monticello Ave & Irving Park Rd"
+}, {
+	"from_station_id": 479,
+	"from_station_name": "Drake Ave & Montrose Ave"
+}, {
+	"from_station_id": 591,
+	"from_station_name": "Kilbourn Ave & Milwaukee Ave"
+}, {
+	"from_station_id": 420,
+	"from_station_name": "Ellis Ave & 55th St"
+}, {
+	"from_station_id": 122,
+	"from_station_name": "Ogden Ave & Congress Pkwy"
+}, {
+	"from_station_id": 475,
+	"from_station_name": "Washtenaw Ave & Lawrence Ave"
+}, {
+	"from_station_id": 135,
+	"from_station_name": "Halsted St & 21st St"
+}, {
+	"from_station_id": 3,
+	"from_station_name": "Shedd Aquarium"
+}, {
+	"from_station_id": 370,
+	"from_station_name": "Calumet Ave & 21st St"
+}, {
+	"from_station_id": 200,
+	"from_station_name": "MLK Jr Dr & 47th St"
+}, {
+	"from_station_id": 330,
+	"from_station_name": "Lincoln Ave & Addison St"
+}, {
+	"from_station_id": 462,
+	"from_station_name": "Winchester (Ravenswood) Ave & Balmoral Ave"
+}, {
+	"from_station_id": 345,
+	"from_station_name": "Lake Park Ave & 56th St"
+}, {
+	"from_station_id": 274,
+	"from_station_name": "Racine Ave & 15th St"
+}, {
+	"from_station_id": 500,
+	"from_station_name": "Central Park Ave & Elbridge Ave"
+}, {
+	"from_station_id": 641,
+	"from_station_name": "Central Park Ave & Bloomingdale Ave"
+}, {
+	"from_station_id": 288,
+	"from_station_name": "Larrabee St & Armitage Ave"
+}, {
+	"from_station_id": 654,
+	"from_station_name": "Racine Ave & Washington Blvd (*)"
+}, {
+	"from_station_id": 14,
+	"from_station_name": "Morgan St & 18th St"
+}, {
+	"from_station_id": 315,
+	"from_station_name": "Elston Ave & Wabansia Ave"
+}, {
+	"from_station_id": 413,
+	"from_station_name": "Woodlawn Ave & Lake Park Ave"
+}, {
+	"from_station_id": 202,
+	"from_station_name": "Halsted St & 18th St"
+}, {
+	"from_station_id": 369,
+	"from_station_name": "Wood St & 35th St"
+}, {
+	"from_station_id": 661,
+	"from_station_name": "Evanston Civic Center"
+}, {
+	"from_station_id": 487,
+	"from_station_name": "California Ave & Byron St"
+}, {
+	"from_station_id": 411,
+	"from_station_name": "Halsted St & 47th Pl"
+}, {
+	"from_station_id": 590,
+	"from_station_name": "Kilbourn Ave & Irving Park Rd"
+}, {
+	"from_station_id": 623,
+	"from_station_name": "Michigan Ave & 8th St"
+}, {
+	"from_station_id": 631,
+	"from_station_name": "Malcolm X College"
+}, {
+	"from_station_id": 136,
+	"from_station_name": "Racine Ave & 13th St"
+}, {
+	"from_station_id": 491,
+	"from_station_name": "Talman Ave & Addison St"
+}, {
+	"from_station_id": 434,
+	"from_station_name": "Ogden Ave & Roosevelt Rd"
+}, {
+	"from_station_id": 170,
+	"from_station_name": "Clinton St & 18th St"
+}, {
+	"from_station_id": 498,
+	"from_station_name": "California Ave & Fletcher St"
+}, {
+	"from_station_id": 216,
+	"from_station_name": "California Ave & Division St"
+}, {
+	"from_station_id": 335,
+	"from_station_name": "Calumet Ave & 35th St"
+}, {
+	"from_station_id": 598,
+	"from_station_name": "Elmwood Ave & Austin St"
+}, {
+	"from_station_id": 278,
+	"from_station_name": "Wallace St & 35th St"
+}, {
+	"from_station_id": 424,
+	"from_station_name": "Museum of Science and Industry"
+}, {
+	"from_station_id": 439,
+	"from_station_name": "Kedzie Ave & 21st St"
+}, {
+	"from_station_id": 271,
+	"from_station_name": "Cottage Grove Ave & 43rd St"
+}, {
+	"from_station_id": 630,
+	"from_station_name": "Kildare Ave & Montrose Ave"
+}, {
+	"from_station_id": 148,
+	"from_station_name": "State St & 33rd St"
+}, {
+	"from_station_id": 437,
+	"from_station_name": "Washtenaw Ave & Ogden Ave (*)"
+}, {
+	"from_station_id": 625,
+	"from_station_name": "Chicago Ave & Dempster St"
+}, {
+	"from_station_id": 417,
+	"from_station_name": "Cornell Ave & Hyde Park Blvd"
+}, {
+	"from_station_id": 378,
+	"from_station_name": "California Ave & Lake St"
+}, {
+	"from_station_id": 600,
+	"from_station_name": "Dodge Ave & Church St"
+}, {
+	"from_station_id": 650,
+	"from_station_name": "Eggleston Ave & 69th St (*)"
+}, {
+	"from_station_id": 510,
+	"from_station_name": "Spaulding Ave & Division St"
+}, {
+	"from_station_id": 34,
+	"from_station_name": "Cannon Dr & Fullerton Ave"
+}, {
+	"from_station_id": 167,
+	"from_station_name": "Damen Ave & Coulter St"
+}, {
+	"from_station_id": 309,
+	"from_station_name": "Leavitt St & Armitage Ave"
+}, {
+	"from_station_id": 401,
+	"from_station_name": "Shields Ave & 28th Pl"
+}, {
+	"from_station_id": 184,
+	"from_station_name": "State St & 35th St"
+}, {
+	"from_station_id": 55,
+	"from_station_name": "Halsted St & Roosevelt Rd"
+}, {
+	"from_station_id": 103,
+	"from_station_name": "Clinton St & Polk St (*)"
+}, {
+	"from_station_id": 553,
+	"from_station_name": "Elizabeth St & 47th St"
+}, {
+	"from_station_id": 605,
+	"from_station_name": "University Library (NU)"
+}, {
+	"from_station_id": 628,
+	"from_station_name": "Walsh Park"
+}, {
+	"from_station_id": 640,
+	"from_station_name": "Bernard St & Elston Ave"
+}, {
+	"from_station_id": 432,
+	"from_station_name": "Clark St & Lunt Ave"
+}, {
+	"from_station_id": 132,
+	"from_station_name": "Wentworth Ave & 24th St"
+}, {
+	"from_station_id": 282,
+	"from_station_name": "Halsted St & Maxwell St"
+}, {
+	"from_station_id": 599,
+	"from_station_name": "Valli Produce - Evanston Plaza"
+}, {
+	"from_station_id": 597,
+	"from_station_name": "Chicago Ave & Washington St"
+}, {
+	"from_station_id": 527,
+	"from_station_name": "Western Ave & Howard St"
+}, {
+	"from_station_id": 263,
+	"from_station_name": "Rhodes Ave & 32nd St"
+}, {
+	"from_station_id": 249,
+	"from_station_name": "Montrose Harbor"
+}, {
+	"from_station_id": 446,
+	"from_station_name": "Western Ave & 28th St"
+}, {
+	"from_station_id": 474,
+	"from_station_name": "Christiana Ave & Lawrence Ave"
+}, {
+	"from_station_id": 468,
+	"from_station_name": "Budlong Woods Library"
+}, {
+	"from_station_id": 124,
+	"from_station_name": "Damen Ave & Cullerton St"
+}, {
+	"from_station_id": 392,
+	"from_station_name": "Perry Ave & 69th St"
+}, {
+	"from_station_id": 252,
+	"from_station_name": "Greenwood Ave & 47th St"
+}, {
+	"from_station_id": 455,
+	"from_station_name": "Maplewood Ave & Peterson Ave"
+}, {
+	"from_station_id": 147,
+	"from_station_name": "Indiana Ave & 26th St"
+}, {
+	"from_station_id": 385,
+	"from_station_name": "Princeton Ave & Garfield Blvd"
+}, {
+	"from_station_id": 265,
+	"from_station_name": "Cottage Grove Ave & Oakwood Blvd"
+}, {
+	"from_station_id": 12,
+	"from_station_name": "South Shore Dr & 71st St"
+}, {
+	"from_station_id": 456,
+	"from_station_name": "2112 W Peterson Ave"
+}, {
+	"from_station_id": 421,
+	"from_station_name": "MLK Jr Dr & 56th St (*)"
+}, {
+	"from_station_id": 352,
+	"from_station_name": "Jeffery Blvd & 67th St"
+}, {
+	"from_station_id": 589,
+	"from_station_name": "Milwaukee Ave & Cuyler Ave"
+}, {
+	"from_station_id": 540,
+	"from_station_name": "Laramie Ave & Madison St"
+}, {
+	"from_station_id": 495,
+	"from_station_name": "Keystone Ave & Montrose Ave"
+}, {
+	"from_station_id": 373,
+	"from_station_name": "Kedzie Ave & Chicago Ave"
+}, {
+	"from_station_id": 552,
+	"from_station_name": "Ashland Ave & McDowell Ave"
+}, {
+	"from_station_id": 551,
+	"from_station_name": "Hoyne Ave & 47th St"
+}, {
+	"from_station_id": 602,
+	"from_station_name": "Central St & Girard Ave"
+}, {
+	"from_station_id": 355,
+	"from_station_name": "South Shore Dr & 67th St"
+}, {
+	"from_station_id": 435,
+	"from_station_name": "Kedzie Ave & Roosevelt Rd"
+}, {
+	"from_station_id": 515,
+	"from_station_name": "Paulina St & Howard St"
+}, {
+	"from_station_id": 336,
+	"from_station_name": "Cottage Grove Ave & 47th St"
+}, {
+	"from_station_id": 644,
+	"from_station_name": "Western Ave & Fillmore St (*)"
+}, {
+	"from_station_id": 102,
+	"from_station_name": "Stony Island Ave & 67th St"
+}, {
+	"from_station_id": 656,
+	"from_station_name": "Damen Ave & Walnut (Lake) St (*)"
+}, {
+	"from_station_id": 517,
+	"from_station_name": "Clark St & Jarvis Ave"
+}, {
+	"from_station_id": 643,
+	"from_station_name": "Smith Park (*)"
+}, {
+	"from_station_id": 450,
+	"from_station_name": "Warren Park West"
+}, {
+	"from_station_id": 412,
+	"from_station_name": "Princeton Ave & 47th St"
+}, {
+	"from_station_id": 452,
+	"from_station_name": "Western Ave & Granville Ave"
+}, {
+	"from_station_id": 664,
+	"from_station_name": "Leavitt St & Belmont Ave (*)"
+}, {
+	"from_station_id": 496,
+	"from_station_name": "Avers Ave & Belmont Ave"
+}, {
+	"from_station_id": 466,
+	"from_station_name": "Ridge Blvd & Touhy Ave"
+}, {
+	"from_station_id": 348,
+	"from_station_name": "California Ave & 21st St"
+}, {
+	"from_station_id": 469,
+	"from_station_name": "St. Louis Ave & Balmoral Ave"
+}, {
+	"from_station_id": 406,
+	"from_station_name": "Lake Park Ave & 35th St"
+}, {
+	"from_station_id": 353,
+	"from_station_name": "Clark St & Touhy Ave"
+}, {
+	"from_station_id": 603,
+	"from_station_name": "Chicago Ave & Sheridan Rd"
+}, {
+	"from_station_id": 480,
+	"from_station_name": "Albany Ave & Montrose Ave"
+}, {
+	"from_station_id": 410,
+	"from_station_name": "Prairie Ave & 43rd St"
+}, {
+	"from_station_id": 519,
+	"from_station_name": "Wolcott Ave & Fargo Ave"
+}, {
+	"from_station_id": 398,
+	"from_station_name": "Rainbow Beach"
+}, {
+	"from_station_id": 351,
+	"from_station_name": "Cottage Grove Ave & 51st St"
+}, {
+	"from_station_id": 422,
+	"from_station_name": "DuSable Museum"
+}, {
+	"from_station_id": 429,
+	"from_station_name": "Cottage Grove Ave & 67th St"
+}, {
+	"from_station_id": 11,
+	"from_station_name": "Jeffery Blvd & 71st St"
+}, {
+	"from_station_id": 547,
+	"from_station_name": "Ashland Ave & Pershing Rd"
+}, {
+	"from_station_id": 399,
+	"from_station_name": "South Shore Dr & 74th St"
+}, {
+	"from_station_id": 518,
+	"from_station_name": "Conservatory Dr & Lake St"
+}, {
+	"from_station_id": 528,
+	"from_station_name": "Pulaski Rd & Lake St"
+}, {
+	"from_station_id": 388,
+	"from_station_name": "Halsted St & 63rd St"
+}, {
+	"from_station_id": 431,
+	"from_station_name": "Eberhart Ave & 61st St"
+}, {
+	"from_station_id": 526,
+	"from_station_name": "Oakley Ave & Touhy Ave"
+}, {
+	"from_station_id": 445,
+	"from_station_name": "California Ave & 26th St"
+}, {
+	"from_station_id": 619,
+	"from_station_name": "Keystone Ave & Fullerton Ave"
+}, {
+	"from_station_id": 428,
+	"from_station_name": "Dorchester Ave & 63rd St"
+}, {
+	"from_station_id": 415,
+	"from_station_name": "Calumet Ave & 51st St"
+}, {
+	"from_station_id": 532,
+	"from_station_name": "Austin Blvd & Lake St"
+}, {
+	"from_station_id": 545,
+	"from_station_name": "Kostner Ave & Adams St"
+}, {
+	"from_station_id": 201,
+	"from_station_name": "Indiana Ave & 40th St"
+}, {
+	"from_station_id": 436,
+	"from_station_name": "Fairfield Ave & Roosevelt Rd"
+}, {
+	"from_station_id": 438,
+	"from_station_name": "Central Park Ave & Ogden Ave"
+}, {
+	"from_station_id": 554,
+	"from_station_name": "Damen Ave & 51st St"
+}, {
+	"from_station_id": 543,
+	"from_station_name": "Laramie Ave & Gladys Ave"
+}, {
+	"from_station_id": 539,
+	"from_station_name": "Cicero Ave & Quincy St"
+}, {
+	"from_station_id": 534,
+	"from_station_name": "Karlov Ave & Madison St"
+}, {
+	"from_station_id": 646,
+	"from_station_name": "State St & 54th St"
+}]

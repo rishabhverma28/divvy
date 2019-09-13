@@ -1,0 +1,7 @@
+pandas
+requests
+bson
+flask
+flask_restplus
+datetime
+pymongo
